@@ -1,0 +1,19 @@
+
+
+/*
+ * Find a resonable and possibly optimal arrayt sizse for strassesn's to 
+ * switch from a recusive solution back to a brute force method
+ * 
+ */
+public class strassensRunner {
+
+	//TODO Implement Brute Force
+	//TODO IMprement Strassens Algorithm
+	//TODO Do not for getht ta you have to run an informal investitagtion to determine how large the matrixes need to be before the theoretical
+	//advantages of strassen's Algorithm start to show
+	
+	public static void Main(String args) {
+		
+	}
+	
+}
