@@ -1,0 +1,54 @@
+Brute and Strassens Time at 2 power 1
+Brute Force time for 2 to the 1 power was : 626955 nano seconds
+Strassens Function time for 2 to the 1 power was : 267816 nano seconds
+Time difference between the two was : -359139
+
+Done at 2021-05-10T03:32:51.198665
+Brute and Strassens Time at 2 power 2
+Brute Force time for 2 to the 2 power was : 5661 nano seconds
+Strassens Function time for 2 to the 2 power was : 102614 nano seconds
+Time difference between the two was : 96953
+
+Done at 2021-05-10T03:32:51.201444
+Brute and Strassens Time at 2 power 3
+Brute Force time for 2 to the 3 power was : 23555 nano seconds
+Strassens Function time for 2 to the 3 power was : 741922 nano seconds
+Time difference between the two was : 718367
+
+Done at 2021-05-10T03:32:51.205116
+Brute and Strassens Time at 2 power 4
+Brute Force time for 2 to the 4 power was : 111050 nano seconds
+Strassens Function time for 2 to the 4 power was : 1612427 nano seconds
+Time difference between the two was : 1501377
+
+Done at 2021-05-10T03:32:51.211023
+Brute and Strassens Time at 2 power 5
+Brute Force time for 2 to the 5 power was : 855997 nano seconds
+Strassens Function time for 2 to the 5 power was : 14285061 nano seconds
+Time difference between the two was : 13429064
+
+Done at 2021-05-10T03:32:51.233022
+Brute and Strassens Time at 2 power 6
+Brute Force time for 2 to the 6 power was : 3100448 nano seconds
+Strassens Function time for 2 to the 6 power was : 78062802 nano seconds
+Time difference between the two was : 74962354
+
+Done at 2021-05-10T03:32:51.323080
+Brute and Strassens Time at 2 power 7
+Brute Force time for 2 to the 7 power was : 8075398 nano seconds
+Strassens Function time for 2 to the 7 power was : 461518112 nano seconds
+Time difference between the two was : 453442714
+
+Done at 2021-05-10T03:32:51.803447
+Brute and Strassens Time at 2 power 8
+Brute Force time for 2 to the 8 power was : 14662344 nano seconds
+Strassens Function time for 2 to the 8 power was : 2787738105 nano seconds
+Time difference between the two was : 2773075761
+
+Done at 2021-05-10T03:32:54.622884
+Brute and Strassens Time at 2 power 9
+Brute Force time for 2 to the 9 power was : 149835461 nano seconds
+Strassens Function time for 2 to the 9 power was : 19453896299 nano seconds
+Time difference between the two was : 19304060838
+
+Done at 2021-05-10T03:33:14.260536
