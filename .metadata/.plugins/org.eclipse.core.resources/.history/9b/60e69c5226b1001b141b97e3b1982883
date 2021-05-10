@@ -1,0 +1,10 @@
+import functions.bruteForceFunction;
+
+public class runner {
+
+	public static void main(String args) {
+
+		matrixFunction function = bruteForceFunction.getInstance();
+
+	}
+}
