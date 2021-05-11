@@ -1,0 +1,8 @@
+README
+
+This program has an auto genearte 512x512 randomized matrix. 
+The Program will read in the matrix on its own to multiply a two 2D arrays together, both by brute force and by strassens algorithm. 
+It will do this from 2^1 to 2^9. 
+It will do this twenty times and output a log file of all 20 times. After each case it will print out a text file of the time it too for each one. 
+Each of these will be printed out into the source file after the porgram is completed. 
+

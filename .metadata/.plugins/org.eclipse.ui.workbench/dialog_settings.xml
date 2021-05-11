@@ -10,8 +10,13 @@
 		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
-			<item value="/home/joshua/Documents/matrices"/>
 			<item value="/home/joshua/Downloads"/>
+			<item value="/home/joshua/Documents/matrices"/>
 		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".txt"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="LibreOffice Calc"/>
 	</section>
 </section>
